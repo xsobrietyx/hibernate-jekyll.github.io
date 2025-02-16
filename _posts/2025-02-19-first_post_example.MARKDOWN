@@ -1,8 +1,7 @@
 ---
 layout: post
 title: First Post
-permalink: /blog/1
-url: /blog/1
+url: /first_post_example
 ---
 
 Some text here

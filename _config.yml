@@ -58,3 +58,12 @@ plugins:
 
 # Custom settings
 future: true
+
+# Permalinks
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /:slug/
