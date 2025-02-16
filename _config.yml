@@ -31,8 +31,9 @@ twitter_username: xsobrietyx
 github_username:  xsobrietyx
 
 # Build settings
-theme: 8-bit-ascii-theme
+remote_theme: https://github.com/xsobrietyx/8-bit-ascii-theme
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
