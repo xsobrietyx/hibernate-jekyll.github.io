@@ -1,8 +1,8 @@
 ---
 layout: post
-title: First Post
+title: Second Post
 url: /first_post_example
-file_name: _posts/2025-02-19-second_post_example.MARKDOWN
+file_name: second_post_example
 ---
 
 Some text here
