@@ -31,7 +31,7 @@ twitter_username: xsobrietyx
 github_username:  xsobrietyx
 
 # Build settings
-theme: minima
+theme: 8-bit-ascii-theme
 plugins:
   - jekyll-feed
 
