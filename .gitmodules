@@ -1,3 +1,4 @@
 [submodule "themes/8-bit-ascii-theme"]
 	path = themes/8-bit-ascii-theme
-	url = http://github.com/xsobrietyx/8-bit-ascii-theme.git
+	url = https://github.com/xsobrietyx/8-bit-ascii-theme.git
+	ignore = dirty
