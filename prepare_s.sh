@@ -1,1 +1,1 @@
-prepare.sh
+_scripts/prepare.sh
