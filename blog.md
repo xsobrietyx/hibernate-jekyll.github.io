@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog_toc
 title: "Blog contents:"
 date: Sat Feb 15 18:47:22 EST 2025
 ---
